@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ConversionCalculator</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <string-array name="types_length">
+        <item>Meters</item>
+        <item>Yards</item>
+        <item>Miles</item>
+    </string-array>
+    <string-array name="types_volume">
+        <item>Liters</item>
+        <item>Gallons</item>
+        <item>Quarts</item>
+    </string-array>
+    <string name="title_activity_history">HistoryActivity</string>
+</resources>

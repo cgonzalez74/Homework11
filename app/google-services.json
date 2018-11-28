@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "89176198769",
+    "firebase_url": "https://conversion-calculator-a7c38.firebaseio.com",
+    "project_id": "conversion-calculator-a7c38",
+    "storage_bucket": "conversion-calculator-a7c38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89176198769:android:59b03fb508a71468",
+        "android_client_info": {
+          "package_name": "com.example.conversioncalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89176198769-bpj3d9bcm99g5othvtvjhc3qc3hrbjdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4tEqwosZRa9qt0HCeQfppztLB1QWHSQ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
